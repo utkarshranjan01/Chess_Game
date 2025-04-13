@@ -5,7 +5,7 @@ Chess Royale is a sophisticated Python-based chess game built with the Pygame li
 ---
 
 ![Front Screen](Screenshots/Screenshot%202024-03-01%20at%205.54.57%20PM.jpg)  
-![Game Demo](Screenshots/demo.mp4)
+![Game Demo](Screenshots/demo.gif)
 
 ---
 
